@@ -11,4 +11,4 @@ for contador in range (5):
         print("O número é menor, TENTE NOVAMENTE!")
     elif num < numero:
         print("O número é maior, TENTE NOVAMENTE!")
-print("O número era:", numero)a
+print("O número era:", numero)
