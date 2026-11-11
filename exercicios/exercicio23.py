@@ -1,3 +1,10 @@
+formaPag = 0
+totalPrazo = 0
+totalVista = 0
+valorTotal = 0
+primeiroPrazo = 0
+valor = 0
+
 for contador in range(15):
     formaPag = int(input("Insira 1 para pagamento à vista \nInsira 2 para pagamento a prazo \nInsira a forma de pagamento:"))
     valor = int(input("Insira o valor da compra: "))
