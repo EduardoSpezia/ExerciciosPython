@@ -1,8 +1,13 @@
-for contador in range(56):
-    nome = input("Insira seu nome:")
-    sexo = input("Insira Homem ou Mulher:")
+nome = " "
+sexo = " "
+homem = 0
+mulher = 0
 
-    if sexo = "Homem":
+for contador in range(56):
+    nome = input("Insira seu nome: ")
+    sexo = input("Insira Homem ou Mulher: ")
+
+    if sexo == "Homem":
         homem += 1
     else:
         mulher += 1
