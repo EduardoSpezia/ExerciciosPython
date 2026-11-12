@@ -7,7 +7,7 @@ mediaAdmin = 0
 mediaOpe = 0
 codigo = 0
 
-for contador in range(0,5):
+for contador in range(0,20):
     codigo = int(input("Insira o código do seu setor: "))
     salario = int(input("Insira o seu sálario: "))
     salarioTotal += salario
